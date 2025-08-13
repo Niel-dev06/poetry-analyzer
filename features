@@ -1,0 +1,6 @@
+## Features
+- CLI interface
+- IDLE-friendly mode
+- Basic sentiment analysis
+- Detects alliteration, assonance, and simple metaphors
+- Saves results to a file
