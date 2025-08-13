@@ -1,0 +1,14 @@
+poetry_analyzer_project/
+├── poetry_analyzer/
+│   ├── analyzer.py
+│   ├── cli.py
+│   └── file_io.py
+├── test_poems/
+│   └── sample_poem.txt
+├── docs/
+│   └── usage.md
+├── tests/
+│   └── test_analyzer.py
+├── poetry_analyzer.py
+├── README.md
+├── LICENSE
