@@ -19,6 +19,8 @@ Scope of the Project
 •	CLI input and output
 •	Basic natural language processing
 •	Standard English poems in .txt format
+•	Syllable counting (approximate)
+•	Sentiment based on a small lexicon
 
 FOLDER STRUCTURE
 poetry_analyzer_project/
@@ -37,6 +39,3 @@ poetry_analyzer_project/
 ├── LICENSE
 
 
-•	Syllable counting (approximate)
-
-•	Sentiment based on a small lexicon
