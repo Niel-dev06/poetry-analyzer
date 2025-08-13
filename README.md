@@ -7,35 +7,57 @@ ________________________________________
 Features
 
 •	Automate the identification of poetic meter and rhyme schemes
+
 •	Detect literary devices like alliteration, assonance, and metaphors
+
 •	Perform basic sentiment analysis
+
 •	Save analysis results to a file
+
 •	Provide an intuitive command-line interface
+
 •	Handle errors gracefully
+
 •	Validate functionality using unit tests
 ________________________________________
 Scope of the Project
 
 •	CLI input and output
+
 •	Basic natural language processing
+
 •	Standard English poems in .txt format
+
 •	Syllable counting (approximate)
+
 •	Sentiment based on a small lexicon
 
 FOLDER STRUCTURE
 poetry_analyzer_project/
 ├── poetry_analyzer/
+
 │   ├── analyzer.py
+
 │   ├── cli.py
+
 │   └── file_io.py
+
 ├── test_poems/
+
 │   └── sample_poem.txt
+
 ├── docs/
+
 │   └── usage.md
+
 ├── tests/
+
 │   └── test_analyzer.py
+
 ├── poetry_analyzer.py
+
 ├── README.md
+
 ├── LICENSE
 
 
